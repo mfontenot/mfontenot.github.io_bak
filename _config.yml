@@ -9,7 +9,7 @@ github_username:  mfontenot
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jemoji
 
 highlighter: rouge
 markdown: kramdown
