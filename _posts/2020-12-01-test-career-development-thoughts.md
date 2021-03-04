@@ -4,6 +4,18 @@ title:  "Test Career Development Thoughts"
 date:   2021-12-01 06:43:00 -0600
 categories: tester career
 ---
+<style type="text/css">
+  .rss-subscribe {
+	  display: none;
+  }
+  .footer-heading {
+	  display: none;
+  }
+  .contact-list {
+	  display: none;
+  }
+</style>
+
 In the past 2 or so months I have decided to enhance my Tester career instead of trying to become a Jr. Java Developer.  My mindset has changed now and I would rather be a better Tester.
 
 ### Why the switch? ###

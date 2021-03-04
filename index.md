@@ -4,10 +4,15 @@
 
 layout: home
 ---
-
 <style type="text/css">
   .rss-subscribe {
-    display: none;
+	  display: none;
+  }
+  .footer-heading {
+	  display: none;
+  }
+  .contact-list {
+	  display: none;
   }
 </style>
 

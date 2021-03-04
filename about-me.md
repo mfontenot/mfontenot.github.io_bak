@@ -3,6 +3,17 @@ layout: page
 title: About Me
 permalink: /about-me/
 ---
+<style type="text/css">
+  .rss-subscribe {
+	  display: none;
+  }
+  .footer-heading {
+	  display: none;
+  }
+  .contact-list {
+	  display: none;
+  }
+</style>
 
 ### Me
 
