@@ -8,12 +8,6 @@ layout: home
   .rss-subscribe {
 	  display: none;
   }
-  .footer-heading {
-	  display: none;
-  }
-  .contact-list {
-	  display: none;
-  }
 </style>
 
 Hi,

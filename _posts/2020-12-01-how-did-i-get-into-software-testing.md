@@ -8,12 +8,6 @@ categories: career
   .rss-subscribe {
 	  display: none;
   }
-  .footer-heading {
-	  display: none;
-  }
-  .contact-list {
-	  display: none;
-  }
 </style>
 
 My journey into a software tester role seemed to be a short one, but if I think back it was the longest path I have ever taken to get here.

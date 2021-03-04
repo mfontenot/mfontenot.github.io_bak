@@ -8,12 +8,6 @@ categories: tester career
   .rss-subscribe {
 	  display: none;
   }
-  .footer-heading {
-	  display: none;
-  }
-  .contact-list {
-	  display: none;
-  }
 </style>
 
 In the past 2 or so months I have decided to enhance my Tester career instead of trying to become a Jr. Java Developer.  My mindset has changed now and I would rather be a better Tester.
