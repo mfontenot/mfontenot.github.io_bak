@@ -14,6 +14,6 @@ I have already put some of the things into practice, by asking to be more involv
 
 ### Ministroy of Testing (MoT - my #1 resource at the moment) ###
 
-I found the [Ministry of Testing](https://ministryoftesting.com){:target="_blank"} site on one of my many web/twitter searches.  Almost immediately I signed up for the pro monthly subscription in order to take advantage of listening to their previous talks and learning resources (TestBash FTW!).  I loved the site and all of the resources available to me and can't say enough about it, but if you are a Tester/QA then you should probably get a pro subscription.
+I found the [Ministry of Testing](https://www.ministryoftesting.com){:target="_blank"} site on one of my many web/twitter searches.  Almost immediately I signed up for the pro monthly subscription in order to take advantage of listening to their previous talks and learning resources (TestBash FTW!).  I loved the site and all of the resources available to me and can't say enough about it, but if you are a Tester/QA then you should probably get a pro subscription.
 
 I found the Ministry of Testing site on one of my many web/twitter searches.  Almost immediately I signed up for the pro monthly subscription in order to take advantage of listening to their previous talks and learning resources (TestBash FTW!).  I loved the site and all of the resources available to me and can't say enough about it, but if you are a Tester/QA then you should probably get a pro subscription.
