@@ -5,6 +5,12 @@
 layout: home
 ---
 
+<style type="text/css">
+  .rss-subscribe {
+    display: none;
+  }
+</style>
+
 Hi,
 
 I'm Mike and I recently joined the wonderful world of software testing in November of 2019.  The idea behind blogging about my journey is to give an idea of what goes into software testing along with my struggles and hopefully some helpful hints.
