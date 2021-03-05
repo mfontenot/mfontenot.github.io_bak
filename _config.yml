@@ -7,7 +7,7 @@ twitter_username: theHappyTester
 github_username:  mfontenot
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jemoji
 
