@@ -24,6 +24,6 @@ Welcome and enjoy!
 	*I tried Insomnia for a few weeks and it sent my ids and secrets
 	when I went to share some requests, then immediately switched
 	back to Postman 😉.  Postman will also share ids/secrets unless
-	you use variables in your requests. (maybe Insomnia does too 🤷‍♂️)
+	you use variables in your requests. (maybe Insomnia has this too 🤷‍♂️)
 
 {% endraw %}
