@@ -10,6 +10,7 @@ github_username:  mfontenot
 theme: jekyll-theme-midnight
 plugins:
   - jemoji
+  - jekyll-seo-tag
 
 highlighter: rouge
 markdown: kramdown
