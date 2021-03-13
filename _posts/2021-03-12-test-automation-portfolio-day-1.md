@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Test Automation Portfolio - Day 1"
+date:   2021-03-12 12:45:00 -0600
+categories: testing portfolio
+---
+<style type="text/css">
+  .rss-subscribe {
+	  display: none;
+  }
+</style>
+
 ## "Build up your *Test Automation Portfolio*", they say, "It'll be fun", they say
 
 ### Day 1 of building up my *Test Automation Portfolio*
