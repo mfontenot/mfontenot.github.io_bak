@@ -109,6 +109,6 @@ The response JSON from */screenshot/info*:
 
 Hey, let's try to get a thumbnail image (PNG) of the screenshot I requested.  I created another **GET** request to the */screenshot/thumbnail* using their example.  This one wants my screenshot **id**, **key**, and **zoom** percentage in the query parameters.  Hit send request and....uh oh!....I have no image.  Again, props to this free API.  It got close but not close enough.
 
-![[/assets/images/browshot-image-not-found-404.png]]
+![/assets/images/browshot-image-not-found-404.png]
 
 I'll try another cool API I can find on **Any-Api.com** for Day 2 and hopefully get better results.  Maybe I'll even ask the developer of Browshot API if they can help with what, if anything, I did wrong.
