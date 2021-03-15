@@ -13,7 +13,7 @@ categories: testing portfolio
 ## "Build up your *Test Automation Portfolio*", they say, "It'll be fun", they say
 
 ### Day 1 of building up my *Test Automation Portfolio*
-First things first, props to Angie Jones' post on [TechBeacon](https://techbeacon.com/app-dev-testing/10-portfolio-projects-aspiring-automation-engineers) for calling me out.  I jumped into being a QA/Test Engineer 1+ years ago and don't have too much to show for it (except my actual job performance 😉).  This will be a way for others to follow along and to showcase things I am good at (still learning).
+First things first, props to Angie Jones' post on <a href="https://techbeacon.com/app-dev-testing/10-portfolio-projects-aspiring-automation-engineers" target="_blank" rel="noopener noreferrer">TechBeacon</a> for calling me out.  I jumped into being a QA/Test Engineer 1+ years ago and don't have too much to show for it (except my actual job performance 😉).  This will be a way for others to follow along and to showcase things I am good at (still learning).
 
 I read the 10 projects and then pretty much jumped right in and visited the link in the third paragraph (test automation portfolio).  That brought me to another page on TechBeacon that I browsed through and noticed **Any-Api.com**.  It caught my attention and I visited that link next.
 
@@ -111,4 +111,4 @@ Hey, let's try to get a thumbnail image (PNG) of the screenshot I requested.  I 
 
 ![](/assets/images/browshot-image-not-found-404.png)
 
-I'll try another cool API I can find on **Any-Api.com** for Day 2 and hopefully get better results.  Maybe I'll even ask the developer of Browshot API if they can help with what, if anything, I did wrong.
+I'll try another cool API I can find on **Any-Api.com** for Day 2 and hopefully get better results.  Maybe I'll even ask the developer of Browshot API if they can help with what, if anything, I did wrong.  *Edit March 15, 2021:  I reached out to the developer and am awaiting a response.*
