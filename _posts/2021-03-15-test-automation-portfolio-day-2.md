@@ -13,7 +13,7 @@ categories: testing portfolio
 ## On a quest to find a screenshot API
 
 ### Day 2 of building up my *Test Automation Portfolio*
-I did some more searching to find a screenshot API that would give me good results to post for my *test automation portfolio*.  I'm hoping that I found that in <a href="https://apiflash.com">API Flash</a> 🧐.  From the looks of their site, it's easy to use and "simple and powerful".  I did what I knew how to do...signed up (another password).
+I did some more searching to find a screenshot API that would give me good results to post for my *test automation portfolio*.  I'm hoping that I found that in <a href="https://apiflash.com" target="_blank" rel="noopener noreferrer">API Flash</a> 🧐.  From the looks of their site, it's easy to use and "simple and powerful".  I did what I knew how to do...signed up (another password).
 
 #### API Flash and Postman
 Log into API Flash and you're shown a *Dashboard* with usage - **0** ha!  This is kind of similar to Browshot but a much better user experience with API Flash.
