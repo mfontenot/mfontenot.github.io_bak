@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How did I get into Software Testing?"
-date:   2021-12-01 13:32:00 -0600
+date:   2020-12-01 13:32:00 -0600
 categories: career
 ---
 <style type="text/css">

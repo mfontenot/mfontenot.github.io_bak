@@ -1,7 +1,19 @@
+---
+layout: post
+title:  "Test Automation Portfolio - Day 1"
+date:   2021-03-12 12:45:00 -0600
+categories: testing portfolio
+---
+<style type="text/css">
+  .rss-subscribe {
+	  display: none;
+  }
+</style>
+
 ## "Build up your *Test Automation Portfolio*", they say, "It'll be fun", they say
 
 ### Day 1 of building up my *Test Automation Portfolio*
-First things first, props to Angie Jones post on [TechBeacon](https://techbeacon.com/app-dev-testing/10-portfolio-projects-aspiring-automation-engineers) for calling me out.  I jumped into being a QA/Test Engineer 1+ years ago and don't have too much to show for it (except my actual job performance ;-)).  This will be a way for others to follow along and to showcase things I am good at (still learning).
+First things first, props to Angie Jones' post on [TechBeacon](https://techbeacon.com/app-dev-testing/10-portfolio-projects-aspiring-automation-engineers) for calling me out.  I jumped into being a QA/Test Engineer 1+ years ago and don't have too much to show for it (except my actual job performance 😉).  This will be a way for others to follow along and to showcase things I am good at (still learning).
 
 I read the 10 projects and then pretty much jumped right in and visited the link in the third paragraph (test automation portfolio).  That brought me to another page on TechBeacon that I browsed through and noticed **Any-Api.com**.  It caught my attention and I visited that link next.
 
@@ -16,7 +28,7 @@ You'll have to click into the **API Documentation** at the top of the site, then
 
 The **Any-Api.com** site will give you a good idea of how to form the request for **Browshot** but you can also see the endpoint above - */api/v1/screenshot/create*.  The top of the API Documentation also gives a quick example of the complete URL to use, and can be put into Postman and edited as you need.  I used the example (copy/paste) and edited with my API Key.
 
-I set the request to **GET** and pasted in the example.  I put in my key at the end and the website to capture was *https://www.ministryoftesting.com*.  So far so good...now, let's hit **Send** in Postman.  Well, that didn't work.  It took a few seconds and came back with an error.  The example I copied from the top of the API documentation page has */simple/* within it and I wanted the full-blown screenshot API abilities.  Mistakes were made ;-p.  I fixed up the request (removed /simple) and resubmitted...Blam-O!  I receive a JSON response with some details:
+I set the request to **GET** and pasted in the example.  I put in my key at the end and the website to capture was *https://www.ministryoftesting.com*.  So far so good...now, let's hit **Send** in Postman.  Well, that didn't work.  It took a few seconds and came back with an error.  The example I copied from the top of the API documentation page has */simple/* within it and I wanted the full-blown screenshot API abilities.  Mistakes were made 😜.  I fixed up the request (removed /simple) and resubmitted...Blam-O!  I receive a JSON response with some details:
 
 ``` JSON
 {
