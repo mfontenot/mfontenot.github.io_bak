@@ -7,10 +7,11 @@ twitter_username: theHappyTester
 github_username:  mfontenot
 
 # Build settings
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jemoji
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 highlighter: rouge
 markdown: kramdown
